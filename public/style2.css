@@ -1,0 +1,86 @@
+body
+{
+   max-width: 90.5rem;
+   margin: 0 auto;
+   padding: 0 1.25rem;
+   font-family: Helvetica, sans-serif;
+}
+
+header
+{
+  
+   font-family: Helvetica, sans-serif;
+   border-bottom: solid 1px rgb(0, 0, 0);
+   background-color: rgb(255, 255, 255);
+   height: 80px;
+}
+.caixa-menuprincipal
+{
+   float: right;
+}
+.caixa-menuprincipal ul
+{
+   list-style-type: none;
+}
+.caixa-menuprincipal ul li
+{
+   display: inline-block;
+   width: 100px;
+   background-color: rgb(146, 146, 146);
+   text-align: center;
+   padding: 10px;
+   border-radius: 10%;
+}
+.caixa-menuprincipal ul li a
+{
+  text-decoration: none;
+  color: black;
+}
+.seu-nome
+{
+   float:left;
+   font-family: Helvetica, sans-serif;
+}
+.informacoes a
+{
+    text-decoration: none;
+    color: black;
+}
+.descriçao
+{
+    color: rgb(6, 146, 201);
+}
+.Data
+{
+    color: rgb(6, 146, 201);
+}
+.linguagem
+{
+    color: rgb(6, 146, 201);
+}
+.link
+{
+    color: rgb(6, 146, 201);
+}
+.topicos
+{
+    color: rgb(6, 146, 201);
+}
+.caixa-menuprincipal
+{
+   float: right;
+}
+.topicos ul
+{
+   list-style-type: none;
+}
+.topicos ul li
+{
+   display: inline-block;
+   width: 130px;
+   background-color: rgb(8, 80, 161);
+   text-align: center;
+   padding: 10px;
+   border-radius: 10%;
+   color: rgb(255, 255, 255);
+}

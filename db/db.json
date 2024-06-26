@@ -1,0 +1,98 @@
+{
+  "profile": {
+    "name": "João Victor Jacques Campos Lessa",
+    "description": "Me chamo João Victor Jacques Campos Lessa, tenho 20 anos e faço ciência da computação na PUC Minas. Também sou multi-instrumentista e os meus instrumentos favoritos são o piano, guitarra, violão e violino. Tenho uma cachorrinha chamada amora, ela tem 1 ano e mais abaixo você poderá ver como ela é fofa.",
+    "location": "Belo Horizonte",
+    "site": "https://www.pucminas.br",
+    "instagram": "https://www.instagram.com/joaovictorjcl",
+    "github": "https://github.com/joaovictorjcl"
+  },
+  "repositories": [
+    {
+      "name": "Repositório 1",
+      "description": "Site",
+      "image": "assets/images.png",
+      "link": "repo.html"
+    },
+    {
+      "name": "Repositório 2",
+      "description": "Perfil",
+      "image": "assets/images.png",
+      "link": "repo2.html"
+    },
+    {
+      "name": "Repositório 3",
+      "description": "ainda não tem",
+      "image": "assets/images.png",
+      "link": "repo3.html"
+    }
+  ],
+  "colleagues": [
+    {
+      "name": "Colega 1",
+      "image": "assets/CR7.jpeg",
+      "github": "https://github.com/colega1"
+    },
+    {
+      "name": "Colega 2",
+      "image": "assets/NEY.jpeg",
+      "github": "https://github.com/colega2"
+    },
+    {
+      "name": "Colega 3",
+      "image": "assets/mbappe.jpeg",
+      "github": "https://github.com/colega3"
+    }
+  ],
+  "carousel": [
+    {
+      "title": "Slide 1",
+      "image": "assets/MORERRIMA2.jpeg",
+      "description": "Descrição do Slide 1",
+      "link": "#"
+    },
+    {
+      "title": "Slide 2",
+      "image": "assets/MORISSIMA.jpeg",
+      "description": "Descrição do Slide 2",
+      "link": "#"
+    },
+    {
+      "title": "Slide 3",
+      "image": "assets/AMORA.jpeg",
+      "description": "Descrição do Slide 3",
+      "link": "#"
+    },
+    {
+      "title": "Slide 4",
+      "image": "assets/MOMORA.jpeg",
+      "description": "Descrição do Slide 4",
+      "link": "#"
+    }
+  ],
+  "repository1": {
+    "title": "Esse site mesmo",
+    "description": "Coloquei esse site no repositório só para não esquecer",
+    "creationDate": "16/04/2024",
+    "language": "HTML e CSS",
+    "link": "https://github.com/joaovictorjcl/Site-DIW-1",
+    "topics": ["HTML", "CSS", "PROGRAMAÇÃO"]
+  },
+  "repository2": {
+    "title": "Perfil do Git",
+    "description": "Perfil no Github",
+    "creationDate": "13/03/2024",
+    "language": "HTML e CSS",
+    "link": "https://github.com/joaovictorjcl/joaovictorjcl",
+    "topics": ["HTML", "CSS", "PROGRAMAÇÃO"]
+  },
+  "repository3": {
+    "title": "Não temos ainda, mas teremos",
+    "description": "Em breve",
+    "creationDate": "16/04/2024",
+    "language": "HTML e CSS",
+    "link": "",
+    "topics": ["HTML", "CSS", "PROGRAMAÇÃO"]
+  }
+  
+}
